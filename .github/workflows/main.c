@@ -1,5 +1,5 @@
-# PIM
-PROJETO ACADEMICO
+//# PIM
+//PROJETO ACADEMICO
 #include <conio.h> //para usar a função getchar fflush
 #include <stdio.h>  //biblioteca para utilizar funções comuns como (printF, scanf etc)
 #include <String.h> //biblioteca que permite a adição de funções dentro de outras funções...
